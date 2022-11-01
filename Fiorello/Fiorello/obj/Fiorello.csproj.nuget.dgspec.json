@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\f\\Desktop\\Fiorello\\Fiorello\\Fiorello.csproj": {}
+    "D:\\ASP.Net2\\Lesson.3\\Fiorello\\Fiorello\\Fiorello.csproj": {}
   },
   "projects": {
-    "C:\\Users\\f\\Desktop\\Fiorello\\Fiorello\\Fiorello.csproj": {
+    "D:\\ASP.Net2\\Lesson.3\\Fiorello\\Fiorello\\Fiorello.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\f\\Desktop\\Fiorello\\Fiorello\\Fiorello.csproj",
+        "projectUniqueName": "D:\\ASP.Net2\\Lesson.3\\Fiorello\\Fiorello\\Fiorello.csproj",
         "projectName": "Fiorello",
-        "projectPath": "C:\\Users\\f\\Desktop\\Fiorello\\Fiorello\\Fiorello.csproj",
+        "projectPath": "D:\\ASP.Net2\\Lesson.3\\Fiorello\\Fiorello\\Fiorello.csproj",
         "packagesPath": "C:\\Users\\f\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\f\\Desktop\\Fiorello\\Fiorello\\obj\\",
+        "outputPath": "D:\\ASP.Net2\\Lesson.3\\Fiorello\\Fiorello\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -51,6 +51,10 @@
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[6.0.10, )"
             }

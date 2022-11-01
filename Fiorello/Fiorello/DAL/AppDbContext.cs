@@ -14,6 +14,8 @@ namespace Fiorello.DAL
         public DbSet<Product>? Products { get; set; }
         public DbSet<Slider>? Sliders { get; set; }
         public DbSet<SliderImage>? SliderImages { get; set; }
+        public DbSet<Bio>? Bios { get; set; }
+
 
     }
 }

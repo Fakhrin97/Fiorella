@@ -8,5 +8,6 @@
         public Category? Category { get; set; }  
         public int CategoryId { get; set; } 
         public string? ImageUrl { get; set; }   
+        public double? DiscountDegree { get; set; } 
     }
 }

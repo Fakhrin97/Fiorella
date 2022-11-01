@@ -13,7 +13,6 @@ namespace Fiorello.HomeControllers
         {
             _dbContext = dbContext;
         }
-
         public async Task<IActionResult> Index()
         {
 
@@ -44,6 +43,7 @@ namespace Fiorello.HomeControllers
             };
 
             return View(homeViewModel);
-        }
+        }      
+
     }
 }

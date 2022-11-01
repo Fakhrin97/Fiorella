@@ -8,33 +8,45 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Fiorello
 build_property.RootNamespace = Fiorello
-build_property.ProjectDir = C:\Users\f\Desktop\Fiorello\Fiorello\
+build_property.ProjectDir = D:\ASP.Net2\Lesson.3\Fiorello\Fiorello\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\f\Desktop\Fiorello\Fiorello
+build_property.MSBuildProjectDirectory = D:\ASP.Net2\Lesson.3\Fiorello\Fiorello
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/f/Desktop/Fiorello/Fiorello/Views/Home/Index.cshtml]
+[D:/ASP.Net2/Lesson.3/Fiorello/Fiorello/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/f/Desktop/Fiorello/Fiorello/Views/Product/Details.cshtml]
+[D:/ASP.Net2/Lesson.3/Fiorello/Fiorello/Views/Product/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/f/Desktop/Fiorello/Fiorello/Views/Product/Index.cshtml]
+[D:/ASP.Net2/Lesson.3/Fiorello/Fiorello/Views/Product/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/f/Desktop/Fiorello/Fiorello/Views/Shared/_Layout.cshtml]
+[D:/ASP.Net2/Lesson.3/Fiorello/Fiorello/Views/Shared/Components/Bio/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQmlvXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ASP.Net2/Lesson.3/Fiorello/Fiorello/Views/Shared/Components/DiscountProducts/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcRGlzY291bnRQcm9kdWN0c1xEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ASP.Net2/Lesson.3/Fiorello/Fiorello/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/f/Desktop/Fiorello/Fiorello/Views/_ViewImports.cshtml]
+[D:/ASP.Net2/Lesson.3/Fiorello/Fiorello/Views/Shared/_ProductPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Qcm9kdWN0UGFydGlhbFZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ASP.Net2/Lesson.3/Fiorello/Fiorello/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/f/Desktop/Fiorello/Fiorello/Views/_ViewStart.cshtml]
+[D:/ASP.Net2/Lesson.3/Fiorello/Fiorello/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
